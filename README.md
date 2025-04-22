@@ -10,7 +10,7 @@ MERN Chat App AES Encryption application requires [Node.js](https://nodejs.org/)
 
 ### Clone the repositories
 ```sh
-$ git clone 
+$ git clone https://github.com/Dgi4b40/Privy.git
 ```
 
 ### Set environment variables 
